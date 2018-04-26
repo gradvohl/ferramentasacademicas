@@ -6,6 +6,13 @@ O livro está disponível no site da [More Books](https://www.morebooks.de/store
 
 [capa]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/imagens/CapaLivro2.jpg "Capa do Livro"
 
+As demais seções dessa página são as seguintes
+- [Sobre o autor](#sobre-o-autor)
+- [Conteúdo do minicurso](#conteúdo-do-minicurso)
+- [Investimento](#investimento)
+- [Motivação para o minicurso](#motivação-para-o-minicurso)
+- [Conteúdo do livro](#conteúdo-do-livro)
+
 # Sobre o autor
 Meu nome é André Leon S. Gradvohl e sou o docente responsável por esse minicurso. Sou formado em Computação pela Universidade Federal do Ceará (UFC), com Mestrado em Computação e Engenharia Eletrônica pelo Instituto Tecnológico de Aeronáutica (ITA) e Doutorado em Engenharia Elétrica na área de Telecomunicações e Telemática pela Universidade Estadual de Campinas (UNICAMP). Atualmente sou professor na Faculdade de Tecnologia da UNICAMP, membro sênior do Instituto de Engenheiros Elétricos e Eletrônicos (IEEE) e, atualmente, _Distinguished Visitor_ pelo IEEE. Mais detalhes sobre mim podem ser encontrados nos seguintes sites:
 
