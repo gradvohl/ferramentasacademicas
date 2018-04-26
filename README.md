@@ -9,7 +9,6 @@ O livro está disponível no site da [More Books](https://www.morebooks.de/store
 As demais seções dessa página são as seguintes
 - [Sobre o autor](#sobre-o-autor)
 - [Conteúdo do minicurso](#conteúdo-do-minicurso)
-- [Investimento](#investimento)
 - [Motivação para o minicurso](#motivação-para-o-minicurso)
 - [Conteúdo do livro](#conteúdo-do-livro)
 
@@ -44,10 +43,6 @@ Em **2 horas/aula** eu mostrarei como utilizar o Mendeley para gerenciamento das
 
 ## Publicação de dados abertos de pesquisa usando o Zenodo
 Na última hora/aula desse curso, comentarai sobre o [Zenodo](https://zenodo.org), um repositório para dados de pesquisas. Atualmente, se fala bastante sobre os conceitos de _Open Data_ e reprodutibilidade. O [Zenodo](https://zenodo.org) facilita não apenas a divulgação dos seus dados de pesquisa, mas também permite a atribuição de um identificador e, especialmente, de uma referência para seus dados. Assim, você pode ter certeza que ganhará os créditos para um dos produtos da sua pesquisa -- os dados que coletou.
-
-# Investimento
-O investimento para esse minicurso é de R$ 140,61. Para que o curso realmente aconteça é preciso ter, no mínimo, 20 alunos.
-
 
 # Motivação para o minicurso.
 A ideia para escrever o livro e oferecer o minicurso nasceu de uma situação que se repetia sempre que eu tinha um novo estudante para orientar. Independente do nível de escolaridade em que o estudante se encontrava -- iniciação científica, mestrado ou doutorado --, os problemas de formatação, citação, referências bibliográficas no texto se repetiam. 
