@@ -28,7 +28,7 @@ O conteúdo do minicurso está dividido nas seguintes partes:
 
 A seguir estão os conteúdos mais detalhados.
 
-** Para melhor aproveitar esse minicurso o ideal é você ter um computador com acesso à Internet. **
+**Para melhor aproveitar esse minicurso o ideal é você ter um computador com acesso à Internet.**
 
 ### Produção e edição de documentos acadêmicos com LaTeX e Overleaf
 
