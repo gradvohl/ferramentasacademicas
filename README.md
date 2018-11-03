@@ -20,7 +20,7 @@ Meu nome é André Leon S. Gradvohl e sou o docente responsável por esse minicu
 - [ORCID](https://orcid.org/0000-0002-6520-9740)
 - [VisualCV](https://www.visualcv.com/andre-leon-gradvohl)
 
-No site do [IEEE](https://www.computer.org/web/chapters/Andre-Gradvohl), há informações sobre o _Distinguished Visitor Program_ (DVP). Trata-se de um programa onde palestrantes internacionais são convidados para falar sobre temas relevantes. Esse minicurso é uma das palestras que eu apresento pelo DVP. Portanto, esse minicurso é -- de certa forma -- internacional.
+No site do [IEEE](https://www.computer.org/profiles/andre-gradvohl), há informações sobre o _Distinguished Visitor Program_ (DVP). Trata-se de um programa onde palestrantes internacionais são convidados para falar sobre temas relevantes. Esse minicurso é uma das palestras que eu apresento pelo DVP. Portanto, esse minicurso é -- de certa forma -- internacional.
 
 # Conteúdo do minicurso
 O conteúdo do minicurso está dividido nas seguintes partes:
